@@ -1,0 +1,27 @@
+{
+  "name": "osmmck",
+  "version": "0.0.1",
+  "description": "OS mimic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd1xw/osmmc.git"
+  },
+  "keywords": [
+    "os",
+    "mimic",
+    "cddw"
+  ],
+  "author": "CDdw",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/cd1xw/osmmc/issues"
+  },
+  "homepage": "https://github.com/cd1xw/osmmc#readme",
+  "bin": {
+    "osmmc": "images.js"
+  }
+}
